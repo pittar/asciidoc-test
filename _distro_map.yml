@@ -1,11 +1,21 @@
 ---
-ascii_binder:
+api_en:
+  name: API Store Project
+  author: AsciiBinder Team <team@asciibinder.org>
+  site: main
+  site_name: Home
+  site_url: http://asciibinder.org/
+  branches:
+    en-1.0:
+      name: Latest
+      dir: latest
+api_fr:
   name: FR API Store Project
   author: AsciiBinder Team <team@asciibinder.org>
   site: main
-  site_name: accueil
+  site_name: Bienvenue
   site_url: http://asciibinder.org/
   branches:
-    master:
-      name: FR Latest
+    fr-1.0:
+      name: Latest
       dir: latest
