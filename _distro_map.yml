@@ -1,5 +1,5 @@
 ---
-ascii_binder:
+api_en:
   name: API Store Project
   author: AsciiBinder Team <team@asciibinder.org>
   site: main
@@ -9,7 +9,7 @@ ascii_binder:
     en-1.0:
       name: Latest
       dir: latest
-ascii_binder:
+api_fr:
   name: FR API Store Project
   author: AsciiBinder Team <team@asciibinder.org>
   site: main
