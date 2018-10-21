@@ -1,6 +1,6 @@
 ---
 api_en:
-  name: API Store Project
+  name: Documentation
   author: AsciiBinder Team <team@asciibinder.org>
   site: main
   site_name: Home
@@ -10,12 +10,12 @@ api_en:
       name: Latest
       dir: latest
 api_fr:
-  name: FR API Store Project
+  name: Documentation
   author: AsciiBinder Team <team@asciibinder.org>
   site: main
   site_name: Bienvenue
   site_url: http://asciibinder.org/
   branches:
     fr-1.0:
-      name: Latest
-      dir: latest
+      name: Actuel
+      dir: actuel
