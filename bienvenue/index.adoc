@@ -4,7 +4,7 @@
 :data-uri:
 :icons:
 
-Welcome to the AsciiBinder Docs Management System. This welcome page is provided as a template for the topic pages that you will create for your software project.
+FR Welcome to the AsciiBinder Docs Management System. This welcome page is provided as a template for the topic pages that you will create for your software project.
 
 == Need Help?
 * Check out the http://www.asciibinder.org/latest/welcome/[AsciiBinder documentation]
