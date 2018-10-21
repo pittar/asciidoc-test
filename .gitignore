@@ -6,4 +6,4 @@ diag-*.png
 diag-*.png.cache
 
 ## Project-specific ignores
-
+.DS_Store
